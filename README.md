@@ -7,7 +7,7 @@
   Отчёт по исследовательскому тестированию мобильного приложения SAU версии 2.4.2 на iOS.  
   📄 [View test report](test-reports/sau-ios-report.md)
 
-  - **Kassir.ru Mobile App (IOS)**  
+- **Kassir.ru Mobile App (IOS)**  
   Тест-кейсы для проверки экрана Акции мобильного приложения Kassir.ru версии 6.14.3 на iOS.  
   📄 [View test cases](https://docs.google.com/spreadsheets/d/1JsNjt2GTqsVUzC0qIgnIKi7YgFRhz2St7pf3F15Kn18/edit?gid=424948590#gid=424948590)
   
