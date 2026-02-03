@@ -24,9 +24,8 @@
 ---
 
 ## Test Documentation
-- 📋 **Checklist and test results — “Order Status” screen**
-- 📋 **Checklist and test results — field validation on “Make an Order” screen**
-- ❌ **Checks outside test documentation with status Failed**
+- 📋 **Test cases and results**
+[Google Sheets](https://docs.google.com/spreadsheets/d/160Va0z0NCu_tUbcwYNp9ub8DssJF0eQXNksx0l1oTS0/edit?gid=943703744#gid=943703744)
 
 ---
 
