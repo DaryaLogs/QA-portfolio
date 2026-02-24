@@ -3,6 +3,14 @@
 Привет! Здесь я собрала примеры своих QA-артефактов: отчёты по тестированию, тест-кейсы, чек-листы и баг-репорты.
 
 ## Test Reports
+- **SAU Mobile App (IOS)**  
+  Отчёт по исследовательскому тестированию мобильного приложения SAU версии 2.4.2 на iOS.  
+  📄 [View test report](test-reports/sau-ios-report.md)
+
+- **Kassir.ru Mobile App (IOS)**  
+  Тест-кейсы для проверки экрана Акции мобильного приложения Kassir.ru версии 6.14.3 на iOS.  
+  📄 [View test cases](https://docs.google.com/spreadsheets/d/1JsNjt2GTqsVUzC0qIgnIKi7YgFRhz2St7pf3F15Kn18/edit?gid=424948590#gid=424948590)
+  
 - **Vending Machine (Windows)**  
   Отчёт по функциональному тестированию desktop-приложения с анализом бизнес-логики, расчётов стоимости и пользовательских сценариев.  
   📄 [View test report](test-reports/vending-machine-report.md)
